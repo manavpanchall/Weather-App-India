@@ -20,3 +20,7 @@ This project is a web-based weather application that allows users to enter a loc
 1. Clone the repository:
    ```bash
    git clone 
+
+
+
+   
